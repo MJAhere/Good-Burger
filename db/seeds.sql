@@ -1,5 +1,3 @@
-INSERT INTO burgers (burger_name, devoured) 
-VALUES ("Good Burge", false)
-, ("Extra Good Burge", false)
-, ("Crispy Kick Good Burger", false)
-, ("Triple Deluxe Cadillac Burger", false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Cheese Burger', FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Cadillac Burger', FALSE);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Smash Burger', FALSE);
